@@ -1,0 +1,3 @@
+K25SW012,Rubana,Gulnawaz,Gilal,Khairpur,3.8
+K25SW043,Ambya,Idrees,Soomro,Khairpur,3.7
+K25SW026,Ayesha,Ahmed,Memon,Khairpur,2.8
